@@ -43,6 +43,7 @@ const App = () => {
     <div>
       <h1>HOC-: A higher-order component (HOC) is an advanced technique in React for reusing component logic.</h1>
       <h1>Pure Component-: React pure components are the components that do not re-render when the value of props and state has been updated with the same values. </h1>
+    <h1>Example of hoc and pure component are -:</h1>
       <EnhancedPureComponent message="Hello, Pure Component!" />
       <EnhancedRegularComponent message="Hello, Regular Component!" />
     </div>
